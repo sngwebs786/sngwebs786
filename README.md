@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nashrasportfolio.netlify.app/](https://nashrasportfolio.netlify.app/)
 
-- 💬 Ask me about **C, C++, Javascript, MERN**
+- 💬 Ask me anything about **Javascript**
 
 - 📫 How to reach me **sngwebs786@gmail.com**
 
