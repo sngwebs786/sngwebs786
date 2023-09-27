@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://nashrasportfolio.netlify.app/](https://nashrasportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nashrasportfolio.vercel.app/](https://nashrasportfolio.vercel.app/)
 
 - 💬 Ask me anything about **Javascript**
 
