@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything about **Javascript**
 
-- 📫 How to reach me **sngwebs786@gmail.com**
+- 📫 How to reach me **nashraghaffar1310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
