@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Food Delivery Web App](https://foodotafood.netlify.app/)
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://nashrasportfolio.vercel.app/](https://nashrasportfolio.vercel.app/)
 
