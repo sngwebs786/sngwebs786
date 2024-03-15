@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nashra Ghaffar</h1>
-<h3 align="center">A passionate Full-stack developer and Computer Scientist from Pakistan</h3>
+<h3 align="center">A passionate Full-stack developer, Youtuber and a Computer Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sngwebs786&label=Profile%20views&color=0e75b6&style=flat" alt="sngwebs786" /> </p>
 
@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://nashrasportfolio.vercel.app/](https://nashrasportfolio.vercel.app/)
+
+- 🟥 Subscribe to my Youtube [(https://www.youtube.com/@callbackcoding?sub_confirmation=1)](https://www.youtube.com/@callbackcoding?sub_confirmation=1)
 
 - 💬 Ask me anything about **Javascript**
 
